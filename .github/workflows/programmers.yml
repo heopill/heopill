@@ -2,8 +2,8 @@ name: Update Programmers Card
 
 on:
   schedule:
-    - cron: '0 15 * * *' # 매일 한국 시간 자정(UTC 15:00)에 업데이트
-  workflow_dispatch: # 수동으로도 실행 가능하게 설정
+    - cron: '0 15 * * *' # 매일 자정 업데이트
+  workflow_dispatch: 
 
 jobs:
   update-card:
@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate Programmers Card
-        uses: pmi97/programmers-card-action@v1.2.1
+        uses: Yidadaa/programmers-card@master
         with:
           user_id: '472401'
 
