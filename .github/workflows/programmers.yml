@@ -1,0 +1,25 @@
+name: Update Programmers Card
+
+on:
+  schedule:
+    - cron: '0 15 * * *' # 매일 한국 시간 자정(UTC 15:00)에 업데이트
+  workflow_dispatch: # 수동으로도 실행 가능하게 설정
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Programmers Card
+        uses: pmi97/programmers-card-action@v1.2.1
+        with:
+          user_id: '472401'
+
+      - name: Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Update Programmers Card" || exit 0
+          git push
