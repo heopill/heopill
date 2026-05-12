@@ -15,5 +15,3 @@
 ![Programmers Stats](https://programmers-readme-stats.vercel.app/api?id=472401&theme=dark)
 
 [![Programmers Stats](https://widgets.progrunners.com/api/profile/472401?theme=dark)](https://programmers.co.kr/learn/users/472401)
-
-[![Programmers Stats](https://mazassumnida.vercel.app/api/v2/generate_badge?programmers=472401)](https://programmers.co.kr/learn/users/472401)
