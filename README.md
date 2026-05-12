@@ -9,9 +9,3 @@
 </div>
 
 <br>
-
-![Programmers Stats](https://github-readme-stats.vercel.app/api?username=472401&show_icons=true)
-
-![Programmers Stats](https://programmers-readme-stats.vercel.app/api?id=472401&theme=dark)
-
-[![Programmers Stats](https://widgets.progrunners.com/api/profile/472401?theme=dark)](https://programmers.co.kr/learn/users/472401)
