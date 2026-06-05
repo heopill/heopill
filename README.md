@@ -37,3 +37,9 @@
 > 명지전문대학교 - 컴퓨터공학과 학사 졸업 (2024.03 ~ 2025.02)
 > <br>
 > 대림대학교 - 컴퓨터정보학부 전문학사 졸업 (2019.03 ~ 2024.02)
+
+<br>
+
+<div style="border-bottom: 1px solid #dbdbdb; padding-bottom: 10px; margin-top: 40px; margin-bottom: 20px;">
+  <h2 style="border: none; margin: 0;">💻 Projects</h2>
+</div>
