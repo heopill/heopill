@@ -43,3 +43,22 @@
 <div style="border-bottom: 1px solid #dbdbdb; padding-bottom: 10px; margin-top: 40px; margin-bottom: 20px;">
   <h2 style="border: none; margin: 0;">💻 Projects</h2>
 </div>
+
+### 🔗 [소분해요 (SoBunHaeYo)](https://github.com/Project-SoBunHaeYo/iOS_SoBunHaeYo)
+> **대형마트 벌크 상품 공동 구매 및 정산 플랫폼**
+> * 대형마트(Costco, 이마트 트레이더스 등) 인근 거주자들을 위한 오프라인 기반 공동 구매 매칭 서비스
+> * UIKit, ReactorKit, RxSwift, RxMoya
+
+<br>
+
+### 🔗 [잇츠오케이 (EatsOkay)](https://github.com/uddt-ds/EatsOkay)
+> **사용자의 현재 상황에 맞는 외식 장소를 빠르고 직관적으로 추천하는 앱**
+> * '상황 → 테마 → 지역 및 식당’ 순으로 좁혀가는 단계적 UI 구조를 통해 사용자의 의사결정을 자연스럽게 유도
+> * UIKit, ReactorKit, RxSwift, Tuist
+
+<br>
+
+### 🔗 [대림마켓 (DaelimMarket)](https://github.com/team-ilpalsam/Flutter_DaelimMarket)
+> **대학 구성원을 위한 교내 중고 거래 플랫폼**
+> * 재학생 간의 안전하고 신뢰할 수 있는 교내 중고 거래와 교내 정보를 제공하는 크로스 플랫폼 애플리케이션
+> * **대림 테크페어 우수상** 수상
