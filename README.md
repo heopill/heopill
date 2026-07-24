@@ -16,7 +16,7 @@
 </div>
 
 #### **iOS & Architecture**
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square"/> <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/MVVM-B8CE9A?style=flat-square"/> <img src="https://img.shields.io/badge/ReactorKit-34495E?style=flat-square"/> <img src="https://img.shields.io/badge/TCA-7B61FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square"/> <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/MVVM-B8CE9A?style=flat-square"/> <img src="https://img.shields.io/badge/MVC-16A085?style=flat-square"/> <img src="https://img.shields.io/badge/ReactorKit-34495E?style=flat-square"/> <img src="https://img.shields.io/badge/TCA-7B61FF?style=flat-square"/>
 
 #### **Reactive & Networking**
 <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Alamofire-F05138?style=flat-square&logo=alamofire&logoColor=white"/> <img src="https://img.shields.io/badge/Moya-B8CE9A?style=flat-square&logo=moya&logoColor=white"/>
