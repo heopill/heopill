@@ -16,7 +16,9 @@
 </div>
 
 #### **iOS & Architecture**
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square"/> <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/MVVM-B8CE9A?style=flat-square"/> <img src="https://img.shields.io/badge/MVC-16A085?style=flat-square"/> <img src="https://img.shields.io/badge/ReactorKit-34495E?style=flat-square"/> <img src="https://img.shields.io/badge/TCA-7B61FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square"/> <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Swift%20Concurrency-F05138?style=flat-square&logo=swift&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/MVC-16A085?style=flat-square"/> <img src="https://img.shields.io/badge/MVVM-B8CE9A?style=flat-square"/> <img src="https://img.shields.io/badge/ReactorKit-34495E?style=flat-square"/> <img src="https://img.shields.io/badge/TCA-7B61FF?style=flat-square"/>
 
 #### **Reactive & Networking**
 <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Alamofire-F05138?style=flat-square&logo=alamofire&logoColor=white"/> <img src="https://img.shields.io/badge/Moya-B8CE9A?style=flat-square&logo=moya&logoColor=white"/>
@@ -43,6 +45,13 @@
 <div style="border-bottom: 1px solid #dbdbdb; padding-bottom: 10px; margin-top: 40px; margin-bottom: 20px;">
   <h2 style="border: none; margin: 0;">💻 Projects</h2>
 </div>
+
+### 🔗 [에그타임 (Egg Time)](https://github.com/heopill/EggTimer)
+> **완벽한 반숙부터 완숙까지, 계란 삶기 전용 타이머 앱**
+> * 익힘 정도를 스와이프로 선택하면 시간을 자동 계산하고, 백그라운드·강제 종료에도 정확히 이어지는 타이머 구현
+> * SwiftUI, TCA, Swift Concurrency
+
+<br>
 
 ### 🔗 [소분해요 (SoBunHaeYo)](https://github.com/Project-SoBunHaeYo/iOS_SoBunHaeYo)
 > **대형마트 벌크 상품 공동 구매 및 정산 플랫폼**
