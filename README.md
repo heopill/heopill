@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B8CE9A&height=300&section=header&text=Seongpil%20Heo&fontSize=90&animation=fadeIn&fontColor=ffffff)
 
-<img src="https://komarev.com/ghpvc/?username=heopill&color=B8CE9A&style=flat-square&label=VISITORS" valign="middle" />
-
 <div style="border-bottom: 1px solid #dbdbdb; padding-bottom: 10px; margin-bottom: 20px;">
   <h2 style="border: none; margin: 0;">🧑‍💻 About Me</h2>
 </div>
