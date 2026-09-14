@@ -47,7 +47,7 @@
 ### <img src="https://github.com/user-attachments/assets/a2ec6e9c-14a8-47b6-b34a-8f2ef1abf75f" width="24" height="24" valign="middle" style="border-radius:6px;"/> &nbsp;[에그타임 (Egg Time)](https://github.com/heopill/EggTimer)
 > **완벽한 반숙부터 완숙까지, 계란 삶기 전용 타이머 앱**
 > * 익힘 정도를 스와이프로 선택하면 시간을 자동 계산하고, 백그라운드·강제 종료에도 정확히 이어지는 타이머 구현
-> * SwiftUI, TCA, Swift Concurrency
+> * SwiftUI, TCA, Swift Concurrency, WidgetKit
 
 <br>
 
