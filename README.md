@@ -44,6 +44,13 @@
   <h2 style="border: none; margin: 0;">💻 Projects</h2>
 </div>
 
+### <img src="https://github.com/user-attachments/assets/24bea1c1-7e25-40ad-a422-40e124c3f988" width="24" height="24" valign="middle" style="border-radius:6px;"/> &nbsp;[섬타임 (SomTime)](https://github.com/heopill/SomTime)
+> **영상을 보면서도 시간을 확인할 수 있는 다이나믹 아일랜드 · PiP 시계 앱**
+> * 다이나믹 아일랜드(가로 모드 포함)와 PiP 플로팅 창에 시계를 띄우고, 사이트 서버 시간을 밀리초 단위까지 맞춰 표시
+> * SwiftUI, TCA, ActivityKit, AVKit(PiP), Swift Concurrency
+
+<br>
+
 ### <img src="https://github.com/user-attachments/assets/a2ec6e9c-14a8-47b6-b34a-8f2ef1abf75f" width="24" height="24" valign="middle" style="border-radius:6px;"/> &nbsp;[에그타임 (Egg Time)](https://github.com/heopill/EggTimer)
 > **완벽한 반숙부터 완숙까지, 계란 삶기 전용 타이머 앱**
 > * 익힘 정도를 스와이프로 선택하면 시간을 자동 계산하고, 백그라운드·강제 종료에도 정확히 이어지는 타이머 구현
